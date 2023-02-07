@@ -1,0 +1,13 @@
+fun main() {
+   val myAge = 20
+   var averageAge = (21.0 + 30) / 2
+   val testNumber = 10
+   val evenOdd = testNumber % 2 
+   val answer = (((0 + 1) + 10) * 10) * 1000
+    
+    println(myAge)
+    println(averageAge)
+    println(evenOdd)
+    println(answer)
+   
+}
