@@ -1,3 +1,6 @@
+//Josue Macias
+//02/07/2023
+
 fun main() {
    val myAge = 20
    var averageAge = (21.0 + 30) / 2
