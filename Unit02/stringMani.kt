@@ -1,3 +1,6 @@
+//Josue Macias
+//02/12/2023
+
 fun main(args: Array<String>) {
     println("Enter a String: ")
     val input = readLine()!!
