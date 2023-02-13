@@ -1,6 +1,9 @@
 //Josue Macias
 //02/09/2023
 
+//Josue Macias
+//02/12/2023
+
 fun main() {
    var prct = .62
    var monGen = 4600000
