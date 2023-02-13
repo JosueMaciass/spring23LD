@@ -1,16 +1,15 @@
 //Josue Macias
-//02/07/2023
+//02/12/2023
 
-fun main() 
-{
-   var friendsCount = 500
+fun main() {
+    val myAge = 20;
+    var averageAge = (20.0 + 30) / 2
+    val testNumber = 10
+    val evenOdd = testNumber % 2
+    var answer = ((1 + 10) * 10) * 1000
+    println(myAge)
+    println(averageAge)
+    println(evenOdd)
+    println(answer)
     
-   if (friendsCount >= 500)
-    {
-        println("Adopt a Dog Today!!")
-    }
-    else
-        {
-            println("Buy Cat Food At 20% Off!!!")
-        }
 }
