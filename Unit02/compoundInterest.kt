@@ -1,3 +1,6 @@
+//Josue Macias
+//02/12/2023
+
 import java.util.Scanner  
 fun main(args: Array<String>) {  
     val input = Scanner(System.`in`)  
